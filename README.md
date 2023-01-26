@@ -21,7 +21,7 @@ This application is covered under the MIT license
 Kevin O'Connor
 # Questions 
 For further information:
-  * [https://github.com/kevoconn/notationThief](https://github.com/kevoconn/notationThief)
+  * [https://github.com/kevoconn/notationThief](https://github.com/kevoconn/companyDirectory.git)
 # Email
   * kcoconnor84@gmail.com
 # Demo
